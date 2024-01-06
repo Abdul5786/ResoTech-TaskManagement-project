@@ -1,6 +1,7 @@
 # ResoTech-TaskManagement-project
 # this is a Task Management project created using spring boot,spring security 6,JWT TOKEN ,database(mysql)
 # key features 
+
 Models:
 
 1)User Model:
